@@ -188,7 +188,7 @@ V
 ### **6.Struktur Proyek**
 
 Struktur direktori akan mengikuti prinsip Clean Architecture dan modularisasi per fitur.
-
+```
 lib/
 └── src/
 ├── core/ # Kode umum & utilitas
@@ -227,3 +227,4 @@ lib/
 ├── global_widgets/ # Widget yang digunakan di banyak fitur
 └── routing/ # Konfigurasi navigasi (GoRouter)
 └── app_router.dart
+```

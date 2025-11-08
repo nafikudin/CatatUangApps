@@ -33,3 +33,5 @@ Penjelasan Entitas
 WALLETS: Merepresentasikan sumber dana pengguna (contoh: 'Tunai', 'Rekening BCA').
 CATEGORIES: Mengelompokkan transaksi (contoh: 'Makanan', 'Gaji'). Memiliki tipe 'Pemasukan' atau 'Pengeluaran'.
 TRANSACTIONS: Entitas inti yang mencatat setiap aktivitas keuangan, menghubungkan WALLETS dan CATEGORIES.
+
+```
